@@ -8,7 +8,7 @@ Uploaded video files
 
 Alert sounds 
 
-SMS notifications 📱 (via Twilio)
+SMS notifications  (via Twilio)
 
 #  Features
 Object Detection: Detects animals based on the COCO dataset.
